@@ -1,16 +1,16 @@
 # laneye.ml
 
-venv:
-source laneyeenv/bin/activate
+venv:<br />
+source laneyeenv/bin/activate<br />
 
-services:
-laneye
-postgresql
+services:<br />
+laneye<br />
+postgresql<br />
 
 
-systemctl status laneye
-systemctl status postgresql
+systemctl status laneye<br />
+systemctl status postgresql<br />
 
-systemctl stop <service>
-systemctl start <service>
-systemctl restart <service>
+systemctl stop <service><br />
+systemctl start <service><br />
+systemctl restart <service><br />
