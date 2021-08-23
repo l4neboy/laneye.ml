@@ -1,0 +1,21 @@
+# Private
+private/
+config.py
+
+# Editors
+.idea/
+
+# Mac/OSX
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Etc
+venv/
+laneye.ini
+laneye.sock
+laneyeenv/
+migrations/
+wsgi.py
+doka.txt
